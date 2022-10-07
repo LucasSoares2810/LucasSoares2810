@@ -3,7 +3,7 @@
 Sou apaixonado por tecnologia, autodidata e estou cursando Análise e desenvolvimento de sistema na Pontifícia Universidade Católica do Paraná.
 
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-)](https://www.linkedin.com/in/lucas-soares-521871205/)
+)](https://www.linkedin.com/in/lucas-soares-software-developer/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 )](https://www.instagram.com/lucas_so94/)
 
