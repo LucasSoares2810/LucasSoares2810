@@ -25,7 +25,7 @@ Sou apaixonado por tecnologia, autodidata e estou cursando Análise e desenvolvi
 
 ### Contato:
 [![](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
-)](https://web.whatsapp.com/) <h3> (41) 9 9503-8865
+)](https://web.whatsapp.com/)<h3>(41) 9 9503-8865 <br/>
 
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 )](https://web.whatsapp.com/) <h3> lucassoaresdev94@gmail.com
