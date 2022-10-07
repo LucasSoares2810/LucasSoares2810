@@ -1,5 +1,7 @@
 ### Olá meu nome é Lucas Soares 👋
 
+Sou apaixonado por tecnologia, autodidata e estou cursando Análise e desenvolvimento de sistema na Pontifícia Universidade Católica do Paraná.
+
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/lucas-soares-521871205/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
@@ -19,7 +21,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSoares2810)](https://github.com/anuraghazra/github-readme-stats)
 
-Sou apaixonado por tecnologia, autodidata e estou cursando Análise e desenvolvimento de sistema na Pontifícia Universidade Católica do Paraná.
+
 
 ### Contato:
 [![](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
